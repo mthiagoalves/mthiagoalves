@@ -1,8 +1,8 @@
 ## Olá!! Bem vindo, sou o Thiago Alves !
 
-- Sou desevolvedor JavaScript FullStack. 
+- Atualmente desevolvedor JavaScript FullStack Junior. 
 
--  Aqui você pode conferir todos os meus projetos criados até agora.
+- Aqui você pode conferir todos os meus projetos criados até agora.
 
 <div> 
   <p style = display: "inline_block" align = "center" >
@@ -36,10 +36,3 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     <p> Snake eating my commits kkkkkkk </p>
-
-
-
-
-
-
-
