@@ -33,9 +33,10 @@
     <a href = https://twitter.com/iSuiciide><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">        </a>
   </div>
   
+  <div>
   Snake eating my commits kkkkkkk
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+  <div/>
 
 
 
