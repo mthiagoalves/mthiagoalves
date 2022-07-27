@@ -1,6 +1,6 @@
 ## Hello, i'm Thiago Alves!
 
-- Currently developer JavaScript FullStack Junior. 
+- Currently developer Web FullStack Junior. 
 
 - Here you see my projects.
 
