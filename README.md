@@ -6,14 +6,14 @@
 
 <div> 
   <p style = display: "inline_block" align = "center" >
-    <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=mthiagoalves&show_icons=true&theme=dark">
-    <img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mthiagoalves&theme=dark"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=premChapagain&show_icons=true&theme=dark" width="400"> 
+    <img width = "425px" src="https://github-readme-streak-stats.herokuapp.com/?user=mthiagoalves&theme=dark"> 
   <p/>
 </div>
 
 
 <div style = display: "inline block" align = "center" margin = "0px"> 
-   <img style = display: "inline_block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mthiagoalves&theme=dark">  
+   
   
   <p> Knowledges in: <p/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="cursor:none"/> 
